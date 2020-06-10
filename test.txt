@@ -1,1 +1,1 @@
-Aenderung auf Branch 'master'
+Aenderung auf Branch 'master' (solve merge conflict with Branch 'test')
